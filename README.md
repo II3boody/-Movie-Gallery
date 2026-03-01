@@ -58,7 +58,9 @@ git clone https://github.com/II3boody/-Movie-Gallery.git
 
 ## 📸 Preview
 
-Add screenshots of the project here.
+<p align="center">
+  <img src="screenshot.png" width="800">
+</p>
 
 ---
 
