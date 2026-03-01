@@ -42,7 +42,7 @@ save favorite movies using localStorage.
 1.  Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-gallery.git
+git clone https://github.com/II3boody/-Movie-Gallery.git
 ```
 
 2.  Open the project folder
