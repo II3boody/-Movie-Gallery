@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Gallery</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>🎬 Movie Gallery</h1>
+
+      <div class="filters">
+        <input type="text" id="searchInput" placeholder="Search movie..." />
+        <select id="genreFilter">
+          <option value="All">All Genres</option>
+        </select>
+        <select id="sortSelect">
+          <option value="yearDesc">Newest</option>
+          <option value="yearAsc">Oldest</option>
+          <option value="ratingDesc">Highest Rating</option>
+        </select>
+        <button id="favToggle" class="fav-toggle">❤ Favorites</button>
+        <div class="controls-bar">
+          <button
+            id="gridToggle"
+            class="grid-btn"
+            data-tooltip="Switch to List"
+          >
+            <span class="icon-grid">
+              <span></span><span></span><span></span><span></span>
+            </span>
+            <span class="icon-list">
+              <span></span><span></span><span></span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div id="moviesContainer" class="movies-grid"></div>
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

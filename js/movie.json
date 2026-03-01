@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Action",
+    "year": 2010,
+    "rating": 8.8,
+    "poster": "./imgs/Inception.webp"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "genre": "Drama",
+    "year": 1972,
+    "rating": 9.2,
+    "poster": "./imgs/The Godfather.webp"
+  },
+  {
+    "id": 3,
+    "title": "Toy Story",
+    "genre": "Comedy",
+    "year": 1995,
+    "rating": 8.3,
+    "poster": "./imgs/Toy Story.webp"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "rating": 9.0,
+    "poster": "./imgs/The Dark Knight.webp"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 8.9,
+    "poster": "./imgs/Pulp Fiction.webp"
+  },
+  {
+    "id": 6,
+    "title": "Finding Nemo",
+    "genre": "Comedy",
+    "year": 2003,
+    "rating": 8.1,
+    "poster": "./imgs/Finding Nemo.webp"
+  },
+  {
+    "id": 7,
+    "title": "Avengers: Endgame",
+    "genre": "Action",
+    "year": 2019,
+    "rating": 8.4,
+    "poster": "./imgs/Avengers Endgame.webp"
+  },
+  {
+    "id": 8,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 8.8,
+    "poster": "./imgs/Forrest Gump.webp"
+  },
+  {
+    "id": 9,
+    "title": "The Lion King",
+    "genre": "Comedy",
+    "year": 1994,
+    "rating": 8.5,
+    "poster": "./imgs/The Lion King.webp"
+  },
+  {
+    "id": 10,
+    "title": "Gladiator",
+    "genre": "Action",
+    "year": 2000,
+    "rating": 8.5,
+    "poster": "./imgs/Gladiator.webp"
+  },
+  {
+    "id": 11,
+    "title": "Schindler's List",
+    "genre": "Drama",
+    "year": 1993,
+    "rating": 9.0,
+    "poster": "./imgs/Schindlers List.webp"
+  },
+  {
+    "id": 12,
+    "title": "Shrek",
+    "genre": "Comedy",
+    "year": 2001,
+    "rating": 7.9,
+    "poster": "./imgs/Shrek.webp"
+  },
+  {
+    "id": 13,
+    "title": "Mad Max: Fury Road",
+    "genre": "Action",
+    "year": 2015,
+    "rating": 8.1,
+    "poster": "./imgs/Mad Max Fury Road.webp"
+  },
+  {
+    "id": 14,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 9.3,
+    "poster": "./imgs/The Shawshank Redemption.webp"
+  },
+  {
+    "id": 15,
+    "title": "Despicable Me",
+    "genre": "Comedy",
+    "year": 2010,
+    "rating": 7.6,
+    "poster": "./imgs/Despicable Me.webp"
+  }
+]
